@@ -1,8 +1,0 @@
-ros-indigo-indy7-description (1.0.1-2trusty) trusty; urgency=high
-
-  * Initialize Indy repository for ROS community
-  * Contributors: Thach Do
-
- -- user <user@todo.todo>  Mon, 07 Jan 2019 17:00:00 -0000
-
-
