@@ -1,0 +1,12 @@
+Source: ros-indigo-indy
+Section: misc
+Priority: extra
+Maintainer: Thach Do <thach.do@neuromeka.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.neuromeka.net/index.php?title=ROS_Indy
+Standards-Version: 3.9.2
+
+Package: ros-indigo-indy
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-indy-driver, ros-indigo-indy5-description, ros-indigo-indy5-moveit-config, ros-indigo-indy7-description, ros-indigo-indy7-moveit-config, ros-indigo-indyrp-description, ros-indigo-indyrp-moveit-config, ros-indigo-indyrp2-description, ros-indigo-indyrp2-moveit-config
+Description: ROS-Industrial support for Indy manipulators (metapackage).
