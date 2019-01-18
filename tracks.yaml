@@ -17,7 +17,7 @@ tracks:
     name: indy
     patches: null
     release_inc: '3'
-    release_repo_url: null
+    release_repo_url: https://github.com/neuromeka-robotics/ros_indy-release.git
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
