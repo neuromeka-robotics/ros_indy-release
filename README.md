@@ -1,3 +1,36 @@
+## indy (indigo) - 1.0.3-0
+
+The packages in the `indy` repository were released into the `indigo` distro by running `/usr/bin/bloom-release indy --rosdistro indigo --edit` on `Fri, 25 Jan 2019 03:22:20 -0000`
+
+These packages were released:
+- `indy`
+- `indy5_description`
+- `indy5_moveit_config`
+- `indy7_description`
+- `indy7_moveit_config`
+- `indy_driver`
+- `indyrp2_description`
+- `indyrp2_moveit_config`
+- `indyrp_description`
+- `indyrp_moveit_config`
+
+Version of package(s) in repository `indy`:
+
+- upstream repository: https://github.com/neuromeka-robotics/ros_indy.git
+- release repository: https://github.com/neuromeka-robotics/ros_indy-release.git
+- rosdistro version: `1.0.1-0`
+- old version: `1.0.1-5`
+- new version: `1.0.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.9`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.13.0`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## indy (indigo) - 1.0.1-5
 
 The packages in the `indy` repository were released into the `indigo` distro by running `/usr/bin/bloom-release indy --rosdistro indigo` on `Fri, 25 Jan 2019 02:55:41 -0000`
